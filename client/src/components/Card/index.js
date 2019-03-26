@@ -3,7 +3,7 @@ import "./style.css";
 
 function Card({ title, children }) {
   return (
-    <div className="card mt-4">
+    <div className="card mb-4">
       <div className="card-header">
         <h3>
           {title}
