@@ -1,0 +1,7 @@
+.btn-danger {
+    background-color: #0CA9EE; 
+}
+
+.btn-danger:hover, .btn-danger:active, .btn-danger:focus {
+    background-color: #EE3679; 
+}
